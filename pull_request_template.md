@@ -1,8 +1,8 @@
 ＃＃＃ 概要
 
-&nbsp;関連Issue
+ 関連Issue
 
-\- FixES
+\- Fixes #
 
 
 
