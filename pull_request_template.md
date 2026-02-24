@@ -2,7 +2,7 @@
 
  関連Issue
 
-\- Fixes #
+\- Fixes # 
 
 
 
